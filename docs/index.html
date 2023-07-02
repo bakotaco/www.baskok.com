@@ -1,1 +1,40 @@
-hello, world
+<!doctype html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <title>Bas Kok</title>
+        <style>
+            html, body {
+                height: 100%;
+            }
+            body {
+                margin: 0;
+                display: flex;
+                justify-content: center;
+                align-items: center;
+            }
+            .pic {
+                width: 30vw;
+                height: 30vw;
+                border-radius: 50% 50%;
+                margin: auto;
+                cursor: pointer;
+                transition: transform 1.5s cubic-bezier(.45,-0.48,.62,1.47);
+            }
+            .pic--rotate {
+                transform: rotate(2turn);
+            }
+        </style>
+        <script>
+            document.addEventListener("DOMContentLoaded", function() {
+                var pic = document.getElementById('pic');
+                pic.addEventListener('click', function() {
+                    pic.classList.toggle('pic--rotate');
+                });
+            });
+        </script>
+    </head>
+    <body>
+        <img id="pic" class="pic" src="img/bas_kok.png">
+    </body>
+</html>

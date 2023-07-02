@@ -1,0 +1,78 @@
+==================================================================
+https://keybase.io/bakotaco
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://baskok.com
+  * I am bakotaco (https://keybase.io/bakotaco) on keybase.
+  * I have a public key with fingerprint 069E E2F9 C50A 0987 85ED  7231 BC0D 5089 10B5 C579
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "01011a66c8d2fe4c0a809df3d451124b127c180f9ba3621c80670d2887a89e7292da0a",
+            "fingerprint": "069ee2f9c50a098785ed7231bc0d508910b5c579",
+            "host": "keybase.io",
+            "key_id": "bc0d508910b5c579",
+            "kid": "01011a66c8d2fe4c0a809df3d451124b127c180f9ba3621c80670d2887a89e7292da0a",
+            "uid": "2352f6439f47a2d4e2a248298b9e0d00",
+            "username": "bakotaco"
+        },
+        "revoke": {
+            "sig_ids": [
+                "884fb1795de1b29dfcc531c15ce52be9eaa08026b23db40c72f582bcbd04598f0f"
+            ]
+        },
+        "service": {
+            "hostname": "baskok.com",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1447966206,
+    "expire_in": 157680000,
+    "prev": "eb24632b39079e6197263fc0d0178a5492fc907f1c3ff73be81b2a531dd1a0cb",
+    "seqno": 4,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+
+owGtkmtMVEcUx3d5QyCFkhBrFcKljwQRZua+d61FaiikCpEgVJQu9zEX1oW9uHtZ
+QIIRRB4FDH1QDdQ2SCSSQpUKFIuk9ZVawNI2NmIfkYelEMVgGkJLq+29pO2nfux8
+mcyZ//mf3zkzLSHepgBzuPbqD0CIEsxjC6IpK43hKghRlcsJSwXhwGsbLpSxW7M5
+7DJhIQAEEAoMI3EyUjAlAYEDvKyQMkVDiCgRIlaCHFB4USAZBCUOMCyQEcexAsdj
+FvFIFoBAxBGK3ZmPXcUuu1MzbBkeY6TwEg0EwHMsR2OZRSQUJSDTgOMhEGmJZnk9
+sUB1Gxk6nCi4cbxd1WP6wbaG9x/6/5m7ZM0OkTRSGIrkFYoVkExhJCCKQzwn8hjI
+ABhCN3Y5hSJsUAkOVRMklaiMI1zYozqwMVe3PV+HdhOWvQTHUYoIWZ6WMRSRziVJ
+NAklSEuYRiLmsSAADiBGRKQsUkBikUJzSJREGVA0zylAIXJ1b72ixy6tmRtT+re6
+26E64iW1SKcqdqmaKqmFerxA04otBpJWXmzoSvuwaPvbwibanbL+QnqGB7vcdtVJ
+WKAulTS74QkpiuUZBgEmjsBlxXYXttkNBc0yHNCXUQd7dE8sIoohkUjygOUxA3kW
+MaSiPxKALCfQFI8USb9SoEQqCkuKmNP7F/TeZRkKQBIJo6kDTpWwUDqnkK9b6mNz
+ClqJCxOVQQ1eG3xM5gCTn6+X8XVNQYGh//znHY+eeAzSWqrrnowjDpenLoQcjbm+
+Ejy10sX8saNvae7PjHb/lahbaQ8XQ7eY43uP/di2EPZyirVxt+kcH1U519yUV+/Y
+dvoF6Dicc3R6L8j2/jXrQpBNdGiByV7wZu6smvVcJ9wUYTk+kGQbnOwx3fXuZu9+
+dq0qLKx248PIwfdLZyvsj1aXfZp6U7b7nPra5Itfe3Z/4PHng11er6R3xHaMzoy8
+ONm1vmNkKihBu+8pIeuX76DMeyP3HImnN3cOJXUsX814j/o2ZSrh01Sf74ehumv9
+pi5z8xcDH3hX7anKp33nz2b7ZYYm7vZY11UKt/tH31p6s2nhq5QOr1I4Xuazs0yY
+jdiVPzEdFDze/iD1pH90UHBZyMzkvuTaB2T9TFtE37tHaoKtBXM3rsSe797QcSi+
+tfwlc1VE9uCJ80NbTbdLTsVUH4gZeqfxt+nOx8Oz7U/P1tQ5WjOSQU9q03y2Rfm8
+u+EmdeX1+nN3Vrc8s25sYum7lKsT+y6fyTs4+nGDX03OG0lHzgZcNPnFDOFLNeTW
+cat1uL7lVln4zyVnxFQu8vehL9OJpBOW6FZrT39bbs/2Cw3EQEb/VOzB1cWGn649
+9VGRJ3rzoUS/sQ+Hrxde3N8bEdkeHlWu1GZeno9PmEtIy4mKvvFNUkBjXSkznP4J
+f79ycebSzjx36MmNzanL26r9p7Rfasfe3vMX
+=3Rzj
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/bakotaco
+
+==================================================================
